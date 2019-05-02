@@ -1,0 +1,23 @@
+{
+  "name": "@stagem/data-grid",
+  "version": "0.0.1",
+  "description": "Framework-agnostic Data Grid library which connect your data source with frontend in an efficient way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stagemteam/node-data-grid.git"
+  },
+  "keywords": [
+    "node.js",
+    "data-grid"
+  ],
+  "author": "Serhii Popov � <popow.serhii@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stagemteam/node-data-grid/issues"
+  },
+  "homepage": "https://github.com/stagemteam/node-data-grid#readme"
+}
